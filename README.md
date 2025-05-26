@@ -18,7 +18,7 @@ listas:
   - dos y medio
 - tres
   - tres y medio
-    - tres un cuarto
+    - tres tres cuartos
 
 lista con orden
 
